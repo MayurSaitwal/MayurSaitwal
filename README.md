@@ -1,9 +1,9 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mayur%20Saitwal&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Cloud%20%7C%20DevOps%20%7C%20Kubernetes%20%7C%20SRE&descAlignY=58" alt="Mayur Saitwal - Cloud, DevOps, Kubernetes, SRE" width="100%"/>
+<img src="assets/header.svg" alt="Mayur Saitwal - Cloud, DevOps, Kubernetes, SRE" width="100%"/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Computer+Engineering+Student+%7C+Aspiring+DevOps+%2F+SRE;Source+Code+%E2%86%92+Docker+%E2%86%92+CI%2FCD+%E2%86%92+Kubernetes+%E2%86%92+AWS;Build+it.+Break+it.+Understand+it.+Automate+it." alt="Typing SVG" />
 </a>
 
