@@ -41,46 +41,6 @@ I enjoy taking applications from **source code → containerization → automate
 
 ---
 
-## 🔭 Currently Working On
-
-### ⚙️ End-to-End CI/CD + Kubernetes Monitoring
-
-Building a complete DevOps workflow using:
-
-`GitHub → Jenkins → Docker → Container Registry → Kubernetes → Monitoring`
-
-The project focuses on automating application delivery and introducing monitoring into the deployment workflow.
-
----
-
-## 🌱 Currently Learning
-
-* ☁️ **AWS Cloud**
-* ⚙️ **Jenkins**
-* ☸️ **Kubernetes**
-* 🏗️ **Terraform**
-* 🔧 **Ansible**
-* 📊 **Prometheus & Grafana**
-* 🚀 **CI/CD & DevOps Automation**
-* 🤖 **AI/LLM Integration for DevOps**
-
----
-
-## 🤝 Looking to Collaborate On
-
-I'm interested in collaborating on projects involving:
-
-* ☁️ Cloud Infrastructure
-* ⚙️ DevOps & CI/CD
-* ☸️ Kubernetes
-* 🐳 Docker & Containerization
-* 🏗️ Infrastructure as Code
-* 📊 Cloud Monitoring
-* 🤖 AI-powered DevOps
-* 🚀 Open-source projects
-
----
-
 # 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
@@ -97,7 +57,6 @@ I'm interested in collaborating on projects involving:
 <p>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -105,6 +64,7 @@ I'm interested in collaborating on projects involving:
 
 <p>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 </p>
 
