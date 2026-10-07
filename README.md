@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="assets/header-v2.svg" alt="Mayur Saitwal - Cloud, DevOps, Kubernetes, SRE" width="100%"/>
+<img src="assets/header.svg" alt="Mayur Saitwal - Cloud, DevOps, Kubernetes, SRE" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Computer+Engineering+Student+%7C+Aspiring+DevOps+%2F+SRE;Source+Code+%E2%86%92+Docker+%E2%86%92+CI%2FCD+%E2%86%92+Kubernetes+%E2%86%92+AWS;Build+it.+Break+it.+Understand+it.+Automate+it." alt="Typing SVG" />
