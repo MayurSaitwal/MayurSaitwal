@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="assets/header.svg" alt="Mayur Saitwal - Cloud, DevOps, Kubernetes, SRE" width="100%"/>
+<img src="assets/header-v2.svg" alt="Mayur Saitwal - Cloud, DevOps, Kubernetes, SRE" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Computer+Engineering+Student+%7C+Aspiring+DevOps+%2F+SRE;Source+Code+%E2%86%92+Docker+%E2%86%92+CI%2FCD+%E2%86%92+Kubernetes+%E2%86%92+AWS;Build+it.+Break+it.+Understand+it.+Automate+it." alt="Typing SVG" />
@@ -95,6 +95,8 @@ I'm a **Computer Engineering student** passionate about **Cloud, DevOps and Kube
 ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
+🔗 **Project Link:** [Three-Tier-Application-Kubernetes-Deployment-on-AWS-EKS](https://github.com/MayurSaitwal/Three-Tier-Application-Kubernetes-Deployment-on-AWS-EKS)
+
 <br/>
 
 ### ⚙️ End-to-End CI/CD Pipeline with Kubernetes Monitoring
@@ -107,6 +109,8 @@ I'm a **Computer Engineering student** passionate about **Cloud, DevOps and Kube
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+🔗 **Project Link:** [End-To-End-Jenkins-CICD-With-Kubernetes-Monitoring](https://github.com/MayurSaitwal/End-To-End-Jenkins-CICD-With-Kubernetes-Monitoring)
+
 <br/>
 
 ### 🏗️ Multi-Environment AWS Infrastructure with Terraform
@@ -117,6 +121,8 @@ I'm a **Computer Engineering student** passionate about **Cloud, DevOps and Kube
 ![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![IaC](https://img.shields.io/badge/Infrastructure%20as%20Code-7B42BC?style=flat-square)
+
+🔗 **Project Link:** [Multi-Environment-AWS-Infrastructure-with-Terraform](https://github.com/MayurSaitwal/Multi-Environment-AWS-Infrastructure-with-Terraform)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
