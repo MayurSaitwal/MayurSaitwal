@@ -1,10 +1,10 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Mayur%20Saitwal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Kubernetes%20%7C%20SRE&descAlignY=60&descSize=20" width="100%"/>
+<img src="assets/header.svg" alt="Mayur Saitwal - Cloud, DevOps, Kubernetes, SRE" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Source+Code+%E2%86%92+Docker+%E2%86%92+CI%2FCD+%E2%86%92+Kubernetes+%E2%86%92+AWS;Build+it.+Break+it.+Understand+it.+Automate+it.;Computer+Engineering+Student+%7C+Aspiring+Cloud+%2F+DevOps+%2F+SRE+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Computer+Engineering+Student+%7C+Aspiring+DevOps+%2F+SRE;Source+Code+%E2%86%92+Docker+%E2%86%92+CI%2FCD+%E2%86%92+Kubernetes+%E2%86%92+AWS;Build+it.+Break+it.+Understand+it.+Automate+it." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,14 +15,14 @@
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ========================= ABOUT ========================= -->
 ## 👨‍💻 About Me
 
 I'm a **Computer Engineering student** passionate about **Cloud, DevOps and Kubernetes**. I enjoy taking an application from **source code to containers, automated CI/CD, Kubernetes and AWS**, and I'm currently preparing for **Cloud / DevOps / SRE roles**. My goal is to build reliable, automated and scalable infrastructure.
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ========================= TECH STACK ========================= -->
 ## 🛠️ Tech Stack
@@ -79,7 +79,7 @@ I'm a **Computer Engineering student** passionate about **Cloud, DevOps and Kube
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ========================= PROJECTS ========================= -->
 ## 🚀 Featured Projects
@@ -118,10 +118,14 @@ I'm a **Computer Engineering student** passionate about **Cloud, DevOps and Kube
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![IaC](https://img.shields.io/badge/Infrastructure%20as%20Code-7B42BC?style=flat-square)
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ========================= GOALS ========================= -->
 ## 🎯 2026–27 Goals
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=F7B93E&center=true&vCenter=true&width=700&lines=Now+learning%3A+Jenkins+CI%2FCD+%F0%9F%94%A5;Next%3A+Ansible+%7C+Prometheus+%26+Grafana;Then%3A+Advanced+AWS+%26+AI-powered+DevOps;Always%3A+Building+production-grade+projects+%F0%9F%9A%80" alt="Current focus"/>
+</div>
 
 | Status | Goal |
 |:--:|:--|
@@ -132,7 +136,7 @@ I'm a **Computer Engineering student** passionate about **Cloud, DevOps and Kube
 | ⏳ | Contribute to Open Source |
 | ⏳ | Build production-grade Cloud / DevOps projects |
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ========================= FOOTER ========================= -->
 <div align="center">
@@ -153,6 +157,6 @@ Open to **Cloud / DevOps / SRE** opportunities and collaborations.
 
 ⭐ *If you find my projects useful, consider giving them a star!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
